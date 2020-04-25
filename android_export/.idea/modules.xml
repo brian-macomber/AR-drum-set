@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android_export.iml" filepath="$PROJECT_DIR$/android_export.iml" group="android_export" />
+      <module fileurl="file://$PROJECT_DIR$/launcher/launcher.iml" filepath="$PROJECT_DIR$/launcher/launcher.iml" group="android_export/launcher" />
+      <module fileurl="file://$PROJECT_DIR$/unityLibrary/unityLibrary.iml" filepath="$PROJECT_DIR$/unityLibrary/unityLibrary.iml" group="android_export/unityLibrary" />
+    </modules>
+  </component>
+</project>
