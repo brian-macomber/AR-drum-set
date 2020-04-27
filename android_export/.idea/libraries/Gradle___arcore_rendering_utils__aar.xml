@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: :arcore_rendering_utils:@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b9909a0ec3f0f055db460a0c35e6b50/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b9909a0ec3f0f055db460a0c35e6b50/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fb0743f534863c27914544392171e151/arcore_rendering_utils/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fb0743f534863c27914544392171e151/arcore_rendering_utils/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

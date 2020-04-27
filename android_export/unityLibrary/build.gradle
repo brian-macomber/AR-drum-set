@@ -5,13 +5,15 @@ apply plugin: 'com.android.library'
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation(name: 'VuforiaWrapper', ext:'aar')
-    implementation(name: 'arcore_client', ext:'aar')
-    implementation(name: 'arcore_rendering_utils', ext:'aar')
-    implementation(name: 'arcore_unity', ext:'aar')
-    implementation(name: 'google_ar_required', ext:'aar')
-    implementation(name: 'unityandroidpermissions', ext:'aar')
-    implementation(name: 'unitygar', ext:'aar')
+    implementation(name: 'VuforiaWrapper', ext: 'aar')
+    implementation(name: 'arcore_client', ext: 'aar')
+    implementation(name: 'arcore_rendering_utils', ext: 'aar')
+    implementation(name: 'arcore_unity', ext: 'aar')
+    implementation(name: 'google_ar_required', ext: 'aar')
+    implementation(name: 'unityandroidpermissions', ext: 'aar')
+    implementation(name: 'unitygar', ext: 'aar')
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
 }
 
 android {
@@ -46,4 +48,3 @@ android {
         doNotStrip '*/armeabi-v7a/*.so'
     }
 }
-
