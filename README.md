@@ -11,4 +11,4 @@ As an AR user, I would like to play the drums without latency.
 As a drummer, I would like to be able to switch between different drum sets to hear different sounds.
 
 ## Software
-Unity, Vuforia, 
+Unity, Vuforia, Android Studio
