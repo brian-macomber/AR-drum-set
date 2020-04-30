@@ -18,7 +18,7 @@ android {
     defaultConfig {
         minSdkVersion 19
         targetSdkVersion 28
-        applicationId 'com.Nadim_Brian.ARdrumset'
+        applicationId 'com.ARDrumsPackage'
         ndk {
             abiFilters 'armeabi-v7a'
         }

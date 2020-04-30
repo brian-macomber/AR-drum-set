@@ -8,8 +8,6 @@
         android:name="android.hardware.vulkan.version"
         android:required="false" />
 
-    <supports-gl-texture android:name="GL_OES_compressed_ETC1_RGB8_texture" />
-
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
     <uses-permission android:name="android.permission.CAMERA" />
@@ -34,14 +32,15 @@
         android:required="false" />
 
     <application>
-        <activity
-            android:name=".MainActivity_menu"
-            android:screenOrientation="portrait">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppTheme">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
         </activity>
         <activity
             android:name=".UnityPlayerActivity"
@@ -71,7 +70,7 @@
             android:value="portrait|landscape" />
         <meta-data
             android:name="unity.build-id"
-            android:value="964445d9-158c-41fa-bb4f-567cb95b4c34" />
+            android:value="056cfd1f-ee62-457f-84f0-1e123baacbfe" />
     </application>
 
 </manifest>
