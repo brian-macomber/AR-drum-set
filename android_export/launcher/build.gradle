@@ -23,11 +23,11 @@ android {
             abiFilters 'armeabi-v7a'
         }
         versionCode 1
-        versionName '1.0'
+        versionName '0.1'
     }
 
     aaptOptions {
-        noCompress = ['.unity3d', '.ress', '.resource', '.obb', 'vuforia/large_surface.dat', 'vuforia/large_surface.xml', 'vuforia/midi_box.dat', 'vuforia/midi_box.xml']
+        noCompress = ['.unity3d', '.ress', '.resource', '.obb', 'vuforia/papertarget.dat', 'vuforia/papertarget.xml', 'vuforia/ardrumsdatabase.dat', 'vuforia/ardrumsdatabase.xml', 'vuforia/large_surface.dat', 'vuforia/large_surface.xml', 'vuforia/midi_box.dat', 'vuforia/midi_box.xml']
         ignoreAssetsPattern = "!.svn:!.git:!.ds_store:!*.scc:.*:!CVS:!thumbs.db:!picasa.ini:!*~"
     }
 

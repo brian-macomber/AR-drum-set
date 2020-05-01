@@ -1,4 +1,13 @@
 <resources>
-    <string name="button_text">CLICK ME</string>
-    <string name="box_text">Click to go to AR</string>
+    <string name="button_text">Enter AR</string>
+    <string name="box_text">Welcome to Augmented Reality Drum Set</string>
+    <string name="instruction">
+        Instructions: \n
+        - Point the phone towards the selected surface for projection.\n
+        - Tap on the drums to hear the corresponding sound.\n
+        - Enjoy AR!\n
+    </string>
+    <string name="footer">
+        Created by Brian Macomber and Nadim El Helou
+    </string>
 </resources>
