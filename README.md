@@ -9,7 +9,7 @@ The user can interact with certain parts of the drum set and hear sound when the
 
 ## User Stories
 
-As a drummer, I would like to be able to play anywhere since drums are not portable.
+As a drummer, I would like to be able to play anywhere since drums are not portable.  
 As an AR user, I would like to play the drums without latency.
 
 ## How to run
@@ -26,5 +26,5 @@ Unity, Vuforia, Android Studio
 
 ## Division of work
 
-Nadim - Unity/Vuforia & adding sounds.
+Nadim - Unity/Vuforia & adding sounds.  
 Brian - Unity/Vuforia/Android Studio & live testing + Main menu.
