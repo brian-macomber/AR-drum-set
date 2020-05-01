@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AR-drum-set-android_export.iml" filepath="$PROJECT_DIR$/AR-drum-set-android_export.iml" group="android_export" />
+      <module fileurl="file://$PROJECT_DIR$/GitHub-AR-drum-set-android_export.iml" filepath="$PROJECT_DIR$/GitHub-AR-drum-set-android_export.iml" group="android_export" />
       <module fileurl="file://$PROJECT_DIR$/android_export.iml" filepath="$PROJECT_DIR$/android_export.iml" group="android_export" />
+      <module fileurl="file://$PROJECT_DIR$/launcher/android_export-launcher.iml" filepath="$PROJECT_DIR$/launcher/android_export-launcher.iml" group="android_export/launcher" />
+      <module fileurl="file://$PROJECT_DIR$/unityLibrary/android_export-unityLibrary.iml" filepath="$PROJECT_DIR$/unityLibrary/android_export-unityLibrary.iml" group="android_export/unityLibrary" />
       <module fileurl="file://$PROJECT_DIR$/launcher/launcher.iml" filepath="$PROJECT_DIR$/launcher/launcher.iml" group="android_export/launcher" />
       <module fileurl="file://$PROJECT_DIR$/unityLibrary/unityLibrary.iml" filepath="$PROJECT_DIR$/unityLibrary/unityLibrary.iml" group="android_export/unityLibrary" />
     </modules>
